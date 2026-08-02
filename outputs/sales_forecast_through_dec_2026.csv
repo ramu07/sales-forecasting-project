@@ -1,0 +1,22 @@
+Month,Forecast_Sales,Model
+2025-04,4850,Holt-Winters additive
+2025-05,5850,Holt-Winters additive
+2025-06,6150,Holt-Winters additive
+2025-07,6150,Holt-Winters additive
+2025-08,7000,Holt-Winters additive
+2025-09,6050,Holt-Winters additive
+2025-10,5750,Holt-Winters additive
+2025-11,5300,Holt-Winters additive
+2025-12,5000,Holt-Winters additive
+2026-01,5300,Holt-Winters additive
+2026-02,5433,Holt-Winters additive
+2026-03,5867,Holt-Winters additive
+2026-04,5817,Holt-Winters additive
+2026-05,6817,Holt-Winters additive
+2026-06,7117,Holt-Winters additive
+2026-07,7117,Holt-Winters additive
+2026-08,7967,Holt-Winters additive
+2026-09,7017,Holt-Winters additive
+2026-10,6717,Holt-Winters additive
+2026-11,6267,Holt-Winters additive
+2026-12,5967,Holt-Winters additive

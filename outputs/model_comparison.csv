@@ -1,0 +1,5 @@
+Model,MAE,RMSE,MAPE
+Linear Trend + Month Dummies,133.3,147.2,2.96
+Holt-Winters Additive,133.3,147.2,2.96
+Holt Linear Trend,612.1,671.7,13.04
+Seasonal Naive,766.7,785.3,16.61
